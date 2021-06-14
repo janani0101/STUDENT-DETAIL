@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Student info page</title>
+</head>
+<body>
+<body>bgcolor="yellow">
+<font color="maroon" size="5">
+<h1><center>Student info</center></h1>
+<br>
+<u>Class</u> :12-B
+<br>
+<u>School</u> :31
+<br>
+<u>School</u> : Swathi Matriculation School
+</body>
+</html>
